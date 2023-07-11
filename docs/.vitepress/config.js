@@ -1,7 +1,7 @@
 export default {
   title: 'Dubzeey', // 博客的标题
   description: 'Dubzeey的个人博客', // 博客的介绍
-  base: '/vitepress-blog/', // 如果想用 https://Doubz.github.io/blog/ 访问，那么这句话必填
+  // base: '/vitepress-blog/', // 如果想用 https://Doubz.github.io/blog/ 访问，那么这句话必填
   themeConfig: {
       logo: "/images/logo.png", // 页面上显示的logo
       nav: [ // 页面右上角的导航
